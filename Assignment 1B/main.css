@@ -1,0 +1,56 @@
+/* style.css */
+
+/* Body styles */
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+/* Container styles */
+.container {
+    margin-top: 50px;
+}
+
+/* Button styles */
+.btn-outline-success {
+    margin-bottom: 20px;
+}
+
+/* Table styles */
+
+
+.table th,
+.table td {
+    color: #d8d3d3;
+}
+
+/* Modal styles */
+.modal-content {
+    background-color: #c43838;
+    border-radius: 10px;
+}
+
+.modal-title {
+    color: #c64949;
+}
+
+/* Form styles */
+.form-control {
+    border-radius: 5px;
+}
+
+/* Button styles */
+.btn-primary {
+    border-radius: 5px;
+}
+
+/* Close button styles */
+.close {
+    color: #c71a1a;
+    opacity: 1;
+}
+
+.close:hover {
+    color: #ff5353;
+    opacity: 0.8;
+}
